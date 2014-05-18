@@ -1,6 +1,6 @@
 {
   "name": "monaca-winjs",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "WinJS loader for Monaca Component.",
   "main": "winjs-loader.js",
   "monaca" : {
